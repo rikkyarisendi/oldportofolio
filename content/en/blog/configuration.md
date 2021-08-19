@@ -3,6 +3,7 @@ title: "Theme Features"
 date: 2020-07-25T02:04:06-05:00
 tags: ["code"]
 series: ["quickstart"]
+draft: true
 ---
 
 Here are some helpful tips for setting up this theme.

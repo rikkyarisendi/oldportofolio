@@ -2,6 +2,6 @@
 title: "Contact"
 ---
 
-In the Contact section of **Introduction**, you may optionally display the current time in your preferred timezone.
+If you’d like a quick chat I’m happy to find the time and talk about your project or collaborating.
 
-This lets visitors know what sort of response time to expect when they contact you. The timezone is easily set in the `config.toml` file. See the exampleSite configuration for instructions.
+**🔻 text me below and get in touch with me 🔻**

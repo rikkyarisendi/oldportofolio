@@ -4,14 +4,25 @@ image: "profile.jpg"
 weight: 8
 ---
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+**_I’m a passionate experienced graphic & web designer. I love solving creative challenging problems while making them look beautiful and functional._**
 
-### Features
 
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+I’ve been designing across many different mediums for over five years. My experience has been mostly in fast-paced creative agencies specializing in digital and print projects. During this time I’ve become thirsty about web design and development. Currently, I focus on digital projects and have a firm understanding of modern web technologies. My goals are to continue learning front end languages such as HTML, CSS, & JS with the aspirations of becoming a front end developer.
+
+The skills below are ones that I have been working on for over five years. I pride myself on learning new skills but below are my core competencies that I bring to every project
+
+————————**Skills**————————
+
+* Graphic Design
+* Logo Creator
+* Illustrator
+* Branding / Identity Design
+* Print layout & Printing processes
+* Web Design
+* HTML, CSS, and basic JS
+* Front End Development
+* Responsive Web Design
+* UI / UX Design
+
+——————————————————
+
