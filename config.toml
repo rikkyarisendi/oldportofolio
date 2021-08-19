@@ -99,9 +99,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Rikky Arisendi | Portofolio"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
-            footerText   = "2020 ©Rikky Arisendi"                      # Text to override default footer text (markdown allowed)
+            description  = " Graphic/Logo designer, UI UX and Front-end developer with professional experience in project management and marketing"   # Max 160 characters show in search results
+            footerText   = "2020 ©Rikky Arisendi made with ❤"                      # Text to override default footer text (markdown allowed)
 
 
