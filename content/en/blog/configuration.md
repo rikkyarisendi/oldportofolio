@@ -1,7 +1,7 @@
 ---
-title: "Theme Features"
+title: "What’s the Difference between Brand, Identity and Logo?"
 date: 2020-07-25T02:04:06-05:00
-tags: ["code"]
+tags: ["tips"]
 series: ["quickstart"]
 draft: true
 ---
