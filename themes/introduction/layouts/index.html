@@ -68,7 +68,7 @@
         <!-- Range through all sections in /home execept contact.md -->
         <div class="section" id="{{ .File.TranslationBaseName }}">
             <div class="container">
-                <h2 class="title is-2 has-text-centered">{{ .Title | markdownify }}</h2>
+                <h2 class="title is-3 has-text-centered">{{ .Title | markdownify }}</h2>
                 {{ if .Params.Image }}
                 <div class="columns">
                     <div class="column is-one-third has-text-centered">
@@ -102,7 +102,7 @@
         {{ with .Resources.GetMatch "contact.md" }}
         <div class="section" id="{{ .File.TranslationBaseName }}">
             <div class="container has-text-centered">
-                <h2 class="title is-2">{{ .Title | markdownify }}</h2>
+                <h2 class="title is-3">{{ .Title | markdownify }}</h2>
                 <div class="markdown">
                     {{ .Content }}
                 </div>
@@ -110,7 +110,7 @@
                 <p>{{ i18n "index_currentTime" . }} <span id="time"></span>.</p>
                 {{ end }}
                 {{ with .Site.Params.email }}
-                <h3 class="subtitle is-3 has-text-centered top-pad">
+                <h3 class="subtitle is-4 has-text-centered top-pad">
                     <a href="mailto:{{ . }}">{{ . }}</a>
                 </h3>
                 {{ end }}
